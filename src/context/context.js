@@ -11,7 +11,7 @@ import { getDatabase, set, ref } from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyDlv_RKGKsyN-AAwaDJTyQI-bIuCpnQB70",
   authDomain: "teamapp-e0f8f.firebaseapp.com",
-  databaseURL: "https://teamapp-e0f8f-default-rtdb.firebaseio.com",
+  databaseURL: "https://teamapp-e0f8f-default-rtdb.firebaseio.com/",
   projectId: "teamapp-e0f8f",
   storageBucket: "teamapp-e0f8f.appspot.com",
   messagingSenderId: "485922528874",
